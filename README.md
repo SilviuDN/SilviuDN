@@ -1,3 +1,18 @@
+### Hello! 👋
+
+- 🔭 Working on migrating [MateCuMatei.ro](https://matecumatei.ro/) and [pascualparquet.es](https://pascualparquet.es/por-que-nosotros-suelos-de-parquet/) from Wordpress to MERN stack
+- 🌱 Currently learning socket.io
+- 👯 Looking to collaborate on a SPA trecking platform
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silviu-dilimot/)
+
+### My favorite projects:
+- [GuitarBattle](https://silviudn.github.io/guitar-battle-game/)
+- [IronPet](https://ironpet.herokuapp.com/)
+- [SpaceBooking](https://spacebookingproject.herokuapp.com/)
+- [BookMe](https://bookme-app.netlify.app/)
+
+
+<!--
 ### Hi there 👋
 
 
@@ -13,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
