@@ -5,6 +5,32 @@
 - 👯 Looking to collaborate on a SPA trecking platform
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silviu-dilimot/)
 
+### Skills:
+<table>
+   <tr>
+    <td>MongoDB</td>
+    <td>Express.js</td>
+    <td>React.js</td>
+    <td>Node.js </td>
+    <td>MERN &#129312</td>
+  </tr>
+  <tr>
+    <td>Javascript ES6</td>
+    <td>Html</td>
+    <td>CSS</td>
+    <td>Bootstrap</td>
+    <td>Material-UI</td>
+  </tr>
+   <tr>
+    <td>Jest</td>
+    <td>Jasmine</td>
+    <td>Socket.io</td>
+    <td>Mongoose</td>
+    <td>MongoDB Atlas</td>
+  </tr>
+
+</table>
+
 ### My favorite projects:
 - [GuitarBattle](https://silviudn.github.io/guitar-battle-game/)
 - [IronPet](https://ironpet.herokuapp.com/)
