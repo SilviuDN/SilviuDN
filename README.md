@@ -27,6 +27,13 @@
     <td>Mongoose</td>
     <td>MongoDB Atlas</td>
   </tr>
+  <tr>
+    <td>Pega</td>
+    <td>Next:</td>
+    <td>Python</td>
+    <td>Java</td>
+    <td>MySQL</td>
+  </tr>
 
 </table>
 
