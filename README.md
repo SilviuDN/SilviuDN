@@ -2,7 +2,7 @@
 
 - 🔭 Working on migrating [MateCuMatei.ro](https://matecumatei.ro/) and [pascualparquet.es](https://pascualparquet.es/por-que-nosotros-suelos-de-parquet/) from Wordpress to MERN stack
 - 🌱 Currently learning socket.io
-- 👯 Looking to collaborate on a SPA trecking platform
+- 👯 Looking to collaborate on an SPA trecking platform
 
 ### Skills:
 <table>
