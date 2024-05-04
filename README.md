@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭 Working on migrating [MateCuMatei.ro](https://matecumatei.ro/) and [pascualparquet.es](https://pascualparquet.es/por-que-nosotros-suelos-de-parquet/) from Wordpress to MERN stack
+- 🔭 Working on migrating [pascualparquet.es](https://pascualparquet.es/por-que-nosotros-suelos-de-parquet/) from Wordpress to MERN stack
 - 🌱 Currently learning socket.io
 - 👯 Looking to collaborate on an SPA trecking platform
 
@@ -37,7 +37,12 @@
 
 </table>
 
-### How to reach me:
+### My dearest projects:
+- [MateCuMatei.com](https://matecumatei.com/)
+- [Academia.MateCuMatei.ro](https://academia.matecumatei.ro/)
+- [MateCuMatei.ro](https://matecumatei.ro/)
+
+### My first projects:
 - [GuitarBattle](https://silviudn.github.io/guitar-battle-game/)
 - [IronPet](https://ironpet.herokuapp.com/)
 - [SpaceBooking](https://spacebookingproject.herokuapp.com/)
